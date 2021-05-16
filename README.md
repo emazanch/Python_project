@@ -11,6 +11,6 @@ https://opendata.reseaux-energies.fr/explore/dataset/fc-tc-regionaux-mensuels-en
 https://opendata.reseaux-energies.fr/explore/dataset/rayonnement-solaire-vitesse-vent-tri-horaires-regionaux/information/?disjunctive.region
 
 Team:
-El Azrak Safa
-Mazanchenko Ekaterina
+El Azrak Safa, 
+Mazanchenko Ekaterina, 
 Poulle Charle
