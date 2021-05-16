@@ -1,7 +1,7 @@
 # Python_project
-Analysis of renewable energy (wind and solar) production and cunsumption in France in 2014-2020. 
+Analysis of renewable energy (wind and solar) production and consumption in France in 2014-2020. 
 Creating a dashboard by regions.
-ML to predict production in 2021 by existing weather data by weather and production data of previous years.
+ML to predict production in 2021 by existing weather and production data of previous years.
 
 Source data:
 https://opendata.reseaux-energies.fr/explore/dataset/parc-regional-annuel-prod-eolien-solaire/information/?disjunctive.region
