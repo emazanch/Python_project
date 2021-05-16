@@ -13,4 +13,4 @@ https://opendata.reseaux-energies.fr/explore/dataset/rayonnement-solaire-vitesse
 Team:
 El Azrak Safa, 
 Mazanchenko Ekaterina, 
-Poulle Charle
+Poulle Charles
